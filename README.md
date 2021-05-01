@@ -7,8 +7,7 @@
 
 ⚡ *Github Stats* ⚡  
   
-![Crystian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrysLef&show_icons=true&theme=radical)  
-[![Crystian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crystian&theme=blue-green)](https://github.com/CrysLef/github-readme-stats)
+![Crystian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrysLef&show_icons=true&theme=radical) [![Crystian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrysLef&theme=blue-green)](https://github.com/CrysLef/github-readme-stats)
   
 🔨 *Technologies* 🔧  
 

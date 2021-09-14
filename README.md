@@ -1,6 +1,6 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello, World!,my name is Crystian, I'm 20 years old and I'm in a constant learning process to become a better frontend developer,I have no experience in the job market,however,I believe that my skills and what I can do are translated through of small projects that I develop once in a while to improve my knowledge.
+Hello, World! My name is Crystian Lefundes, I'm 21 years old and I'm in a constant learning process to become a better frontend developer,I have no experience in the job market,however,I believe that my skills and what I can do are translated through of small projects that I develop once in a while to improve my knowledge.
 
 
 I'm in Hiring Coders, to know better, follow the link: [https://www.hiringcoders.com.br/](https://www.hiringcoders.com.br/)

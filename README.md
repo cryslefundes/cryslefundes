@@ -1,5 +1,6 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+My name is Crystian, I'm in a constant learning process to become a better developer, I have no experience in the job market yet, however, I believe that my skills and what I can do are translated through of projects that I develop once in a while to improve my knowledge. Nowadays, I’m developing with React, React Native, NextJS and always looking to learn new tools to better translate my goals into code.
 
   
 🔨 *Technologies* 🔧  

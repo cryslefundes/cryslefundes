@@ -1,11 +1,6 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🇧🇷
-Olá, eu me chamo Crystian, estou cursando ciência da computacao na UERJ-ZO, tenho 22 anos e estou focado na área de dados, minha linguagem principal é Python. No momento estou fazendo prodocência com o tema de “Desenvolvimento de Aplicações e Laboratório para o Ensino de Métodos Computacionais em Inteligência Artificial (IA) com o uso de software livre”, onde faço apresentações mostrando códigos e falando sobre, além de desenvolver artigos. Sou carioca, flamenguista e apaixonado por música e aprender coisas novas.
-
-🇬🇧
-Hello, World! My name is Crystian, I’m studying computer science at UERJ-ZO, I’m 22 years old and I’m focus in data, my main language is Python. At this moment I’m in a project in my university about  devoloping AI using Open Source where I write articles and do lectures. Music Lover and continuos learning.
-
+Olá, mundo, me chamo Crystian, estou cursando ciência da computacao na UERJ-ZO, tenho 22 anos, programo em Python e de vez em quando Javascript, utilizo de containers com Docker, infra como código com Terraform, CI/CD com Github Actions, versionamento com GIT, faço orquestração de containers com Kubernetes e tenho projetos com cloud, especificamente AWS, faço projetos mais voltados pro mundo Devops hoje em dia.
   
 🔨 *Technologies* 🔧  
 

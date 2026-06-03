@@ -1,6 +1,6 @@
 ## Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Seja bem-vindo ao meu Github, aqui eu mantenho projetos para estudo e apresentação de portfólio também, programo em Java e Golang. No momento, estou cursando ciência da computação na UERJ-ZO e segurança da informação pela Gran Faculdade, sinta-se a vontade para me seguir e trocar conexões, contruibuir para um projeto e me chamar pra um se for do seu interesse.
+Seja bem-vindo ao meu Github, aqui eu mantenho projetos para estudo e apresentação de portfólio também, programo em Java, Python e Golang, com foco na área de DevOps, Cloud e Segurança da informação. No momento, estou cursando ciência da computação na UERJ-ZO e segurança da informação pela Gran Faculdade, sinta-se a vontade para me seguir e trocar conexões, contruibuir para um projeto e me chamar pra um se for do seu interesse.
   
 🔨 *Tecnologias* 🔧
 
@@ -8,12 +8,19 @@ Seja bem-vindo ao meu Github, aqui eu mantenho projetos para estudo e apresenta�
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://pt-br.reactjs.org)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+
 <br />
 
 📬 *Fale comigo*

@@ -11675,40 +11675,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1789534062525",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
-      "position": {
-        "x": 0,
-        "y": 722
-      },
-      "size": {
-        "width": 800,
-        "height": 120
-      },
-      "config": {
-        "selectedSocials": [
-          "linkedin",
-          "email"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/cryslefundes",
-          "linkedin": "https://www.linkedin.com/in/crystian-lefundes/",
-          "website": "https://docs.oracle.com/en/java/",
-          "email": "mailto:crystian.lf@gmail.com"
-        },
-        "backgroundColor": "transparent",
-        "badgeStyle": "for-the-badge",
-        "animationType": "fade-in",
-        "animationPreviewKey": 1,
-        "hideBorder": true,
-        "lockAspectRatio": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
